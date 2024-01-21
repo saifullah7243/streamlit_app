@@ -1,6 +1,5 @@
 pandas 
 streamlit
 datetime
-matplotlib
+matplotlib.pyplot
 plotly.express
-plotly
