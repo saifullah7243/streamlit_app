@@ -1,5 +1,5 @@
-pandas 
-streamlit
-datetime
+pandas==2.2.0
+streamlit==1.30.0
+DateTime==5.4
 matplotlib.pyplot
 plotly.express
